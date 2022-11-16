@@ -1,4 +1,5 @@
-# contacts_app
+# Contacts App Using SQFlite
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/81623956/202219436-42eec7a7-ae3f-4454-b101-549938334dde.gif)
 
 A new Flutter project.
 
